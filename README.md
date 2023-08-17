@@ -4,4 +4,5 @@ As a delivery driver for Doordash myself for months, I thought this would be a p
 needed to become a quality data scientist. 
 Noticing that Doordash had this case study they gave interviewees to work on, I took it upon myself as a challenge to work on this dataset.
 I had a very enjoyable time doign this whole project and I gained many valuable isnights to take into the future with me. 
-Enjoy!
+I have attached a slide presentation of my full analysis to go along with my code and the original dataset as well.
+Thank you!
